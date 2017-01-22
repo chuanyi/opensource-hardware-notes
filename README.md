@@ -35,10 +35,17 @@
   - 2.1 输出与显示
   - 2.2 马达与控制
   - 2.3 常见传感器
+  - [2.4 手机遥控可壁障小车](2.4.phone_ctrl_barrier_car.md)
 
-  2. 最佳机器人平台ABR(IOIO)
-  3. PCB设计
-  4. 常见玩具原理分析
+  3. Amarino Tookit
+
+     http://www.amarino-toolkit.net/
+
+  4. ABR(IOIO)
+
+  5. PCB设计
+
+  6. 常见玩具原理分析
 
   - 4.1 遥控小车
   - 4.2 电子琴
